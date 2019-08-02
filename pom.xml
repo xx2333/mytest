@@ -35,7 +35,7 @@
         </dependency>
 
 
-        <!--热部署-->
+        <!--热部署的坐标-->
         <!--<dependency>-->
             <!--<groupId>org.springframework.boot</groupId>-->
             <!--<artifactId>spring-boot-devtools</artifactId>-->
