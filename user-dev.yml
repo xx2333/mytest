@@ -13,4 +13,4 @@ eureka:
     service-url:
       defaultZone: http://127.0.0.1:7001/eureka
 test:
-  hello: word-wwww
+  hello: word-wwww-qqqq-lallalal
