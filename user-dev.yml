@@ -1,0 +1,14 @@
+server:
+  port: ${port:81}
+spring:
+  application:
+    name: eureka-client-provider
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: zwh12345
+    url: jdbc:mysql://127.0.0.1:3306/springcloud?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:7001/eureka
