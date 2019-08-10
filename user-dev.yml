@@ -1,5 +1,5 @@
 server:
-  port: ${port:81}
+  port: ${port:82}
 spring:
   application:
     name: eureka-client-provider
